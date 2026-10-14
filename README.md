@@ -10,7 +10,7 @@ Offload gets Sony FX6 and FX3 clips off the card safely, names them from the pla
 2. When it asks "Move Offload to Applications?", choose **Move to Applications**.
 3. A short tour opens the first time.
 
-Requires macOS 27 or later. For playing FX6 (MXF) clips, install Apple's free *Pro Video Formats*; copying and naming work without it.
+Requires macOS 15 or later. For playing FX6 (MXF) clips, install Apple's free *Pro Video Formats*; copying and naming work without it.
 
 ## Releases
 
